@@ -233,15 +233,17 @@ Transaction Execution Rewards may be provided for proposal execution in the DAO,
 
 ### Rewards claiming and Token withdraw <a href="#docs-internal-guid-334e714a-7fff-9ad7-02da-f2ca4a22229c" id="docs-internal-guid-334e714a-7fff-9ad7-02da-f2ca4a22229c"></a>
 
-<figure><img src=".gitbook/assets/изображение (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/claim rewards.jpg" alt=""><figcaption></figcaption></figure>
 
-To claim your rewards, visit your profile page. Choose a DAO where you have voted, click three dots to open menu and then press “Claim rewards”.
+To claim your rewards, visit your profile page. Choose a DAO where you have voted, find your new rewards, and then press “Claim.”
+
+<figure><img src=".gitbook/assets/withdraw.jpg" alt=""><figcaption></figcaption></figure>
 
 You can also withdraw your tokens back to your wallet after voting by clicking “Withdraw”.
 
 <div><figure><img src=".gitbook/assets/изображение (48).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Untitled-6 (2).jpg" alt=""><figcaption></figcaption></figure></div>
 
-Choose the number of tokens you want to withdraw back to your wallet and click "Confirm withdraw", then sign the transaction.
+Choose the number of tokens you want to withdraw back to your wallet, click "Confirm withdraw", then sign the transaction.
 
 <figure><img src=".gitbook/assets/изображение (49).png" alt=""><figcaption></figcaption></figure>
 
