@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/rewards.png
+cover: .gitbook/assets/Rewards System (1).jpg
 coverY: 0
 layout:
   cover:
