@@ -29,7 +29,7 @@ To get started, navigate to your DAO's page and click "Create Proposal." In DeXe
 
 ### [4. Token Transfer](4.-token-transfer.md) <a href="#undefined-3" id="undefined-3"></a>
 
-### [5. Token Sales](5.-token-sales.md) <a href="#undefined-4" id="undefined-4"></a>
+### [5. Token Sales](5.-token-sales/) <a href="#undefined-4" id="undefined-4"></a>
 
 ### [6. Manage Validators](6.-manage-validators.md)
 
