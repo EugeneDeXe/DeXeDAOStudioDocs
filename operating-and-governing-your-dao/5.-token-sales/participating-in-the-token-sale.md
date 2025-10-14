@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/cover.jpg
+coverY: 0
+---
+
 # Participating in the Token Sale
 
 This guide explains how to participate in a token sale on [DeXe dApp](https://app.dexe.io/) and claim tokens according to the vesting schedule.
@@ -37,7 +42,7 @@ If the sale includes **vesting**, part or all of your purchased tokens may be lo
 ### 3. Buying a token
 
 After you’ve reviewed all the sale details and confirmed that everything looks good, click **Buy Token**.\
-Choose how many tokens you want to purchase the system will automatically show the price and your allocation.
+Choose how many tokens you want to purchase; the system will automatically show the price and your allocation.
 
 When you’re ready, click **Approve**.
 
@@ -45,7 +50,7 @@ When you’re ready, click **Approve**.
 
 Next, you’ll need to **sign two transactions**:
 
-1. **Approve** — allows the smart contract to use your payment asset.
+1. **Approve** — allows the smart contract to use your payment asset for the exact amount you choose to spend in the token sale.
 2. **Purchase** — executes your token buy on-chain.
 
 <div><figure><img src="../../.gitbook/assets/05.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/06.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/07.jpg" alt=""><figcaption></figcaption></figure></div>
@@ -56,12 +61,6 @@ Next, you’ll need to **sign two transactions**:
 
 If the sale has a cliff and vesting, you claim tokens as they unlock.
 
-{% hint style="info" %}
-If a **cliff** is active, no tokens can be claimed until the cliff ends.
-
-The **Next unlock** timer shows when the next portion becomes claimable.
-{% endhint %}
-
 **To claim:**
 
 1. Return to the DAO’s **Token Sales** tab and open the same sale.
@@ -70,4 +69,10 @@ The **Next unlock** timer shows when the next portion becomes claimable.
 
 <div><figure><img src="../../.gitbook/assets/08.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/09.jpg" alt=""><figcaption></figcaption></figure></div>
 
-Congrats, tokens are sent to your wallet. Repeat the claim process each time a new portion unlocks until the **Vesting end**.
+{% hint style="info" %}
+If a **cliff** is active, no tokens can be claimed until the cliff ends.
+
+The **Next unlock** timer shows when the next portion becomes claimable.
+{% endhint %}
+
+Congratulations, your tokens have been sent to your wallet. Repeat the claim process each time a new portion unlocks until the **Vesting end**.
