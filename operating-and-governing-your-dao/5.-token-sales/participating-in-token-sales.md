@@ -1,9 +1,10 @@
 ---
+icon: chart-mixed-up-circle-currency
 cover: ../../.gitbook/assets/cover.jpg
 coverY: 0
 ---
 
-# Participating in the Token Sale
+# Participating in Token Sales
 
 This guide explains how to participate in a token sale on [DeXe dApp](https://app.dexe.io/) and claim tokens according to the vesting schedule.
 
