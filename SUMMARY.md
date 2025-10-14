@@ -16,7 +16,7 @@
   * [3. Change Voting Model](operating-and-governing-your-dao/3.-change-voting-model.md)
   * [4. Token Transfer](operating-and-governing-your-dao/4.-token-transfer.md)
   * [5. Token Sales](operating-and-governing-your-dao/5.-token-sales/README.md)
-    * [Participating in Token Sales](operating-and-governing-your-dao/5.-token-sales/participating-in-token-sales.md)
+    * [Participating in the Token Sale](operating-and-governing-your-dao/5.-token-sales/participating-in-the-token-sale.md)
   * [6. Manage Validators](operating-and-governing-your-dao/6.-manage-validators.md)
   * [7. Token Allocation for Validators](operating-and-governing-your-dao/7.-token-allocation-for-validators.md)
   * [8. Blacklist management](operating-and-governing-your-dao/8.-blacklist-management.md)
