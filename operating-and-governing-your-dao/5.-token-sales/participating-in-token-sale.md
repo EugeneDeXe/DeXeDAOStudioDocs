@@ -1,12 +1,11 @@
 ---
-icon: chart-mixed-up-circle-currency
-cover: ../../.gitbook/assets/cover.jpg
+cover: ../../.gitbook/assets/22size.png
 coverY: 0
 ---
 
 # Participating in Token Sale
 
-Learn how to join a token sale on [DeXe dApp](https://app.dexe.io/) and claim tokens according to the vesting schedule.
+Learn how to join a fully decentralized on-chain Token Sale on [DeXe dApp](https://app.dexe.io/) and claim tokens according to the vesting schedule.
 
 {% hint style="info" %}
 **Make sure your have:**
